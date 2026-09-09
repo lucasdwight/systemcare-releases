@@ -1,8 +1,8 @@
 {
-    "version":  "1.3.3",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.3.3/SystemCare-1.3.3-x64.msi",
-    "sha256":  "AF3252A7725D64D29B3D3D683077D16155349993836872BEF8776746EE233835",
-    "sizeBytes":  62529536,
-    "releasedUtc":  "2026-09-09T19:47:29Z",
-    "notes":  "iSharpe SystemCare now has its own icon, on the taskbar, the Start menu and everywhere else Windows shows it."
+    "version":  "1.3.4",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.3.4/SystemCare-1.3.4-x64.msi",
+    "sha256":  "EE24CEE0A08326EC714709FF7DC44C3D9EFB21FB6A4320A2621FECE4B593B49E",
+    "sizeBytes":  62537728,
+    "releasedUtc":  "2026-09-09T20:16:27Z",
+    "notes":  "Backups no longer get skipped when a schedule also runs a full security scan, and the scheduled tasks screen now shows what maintenance is doing and links to the report."
 }
