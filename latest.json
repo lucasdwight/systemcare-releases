@@ -1,0 +1,8 @@
+{
+    "version":  "1.1.0",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.1.0/SystemCare-1.1.0-x64.msi",
+    "sha256":  "E955BE501D1565345B1C4C637F041757880CDC8414E6C6854C0BD1D4851BADA3",
+    "sizeBytes":  54820864,
+    "releasedUtc":  "2026-09-09T16:24:32Z",
+    "notes":  "Renamed to iSharpe SystemCare. New simple view for customers, a much more accurate speed test, and automatic updates."
+}
