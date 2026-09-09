@@ -1,8 +1,8 @@
 {
-    "version":  "1.3.1",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.3.1/SystemCare-1.3.1-x64.msi",
-    "sha256":  "2F97116B0F2055F4F84BE83086E3D3D26F5D4468895CCBFC0314AE6246D5A95A",
+    "version":  "1.3.2",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.3.2/SystemCare-1.3.2-x64.msi",
+    "sha256":  "F108B08236AAC53882DAC704D3477DD87E9712119B72F5721EB2FFAC2EBC8CCC",
     "sizeBytes":  61923328,
-    "releasedUtc":  "2026-09-09T19:21:16Z",
-    "notes":  "Fixes: a full security scan now really is a full scan, and runs both scanners. The Start and Stop buttons for helper apps now match what is actually running."
+    "releasedUtc":  "2026-09-09T19:33:27Z",
+    "notes":  "The scanner is now fetched while the program is being installed, so the first security scan does not have to wait for a download."
 }
