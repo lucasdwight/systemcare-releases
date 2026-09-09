@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.0",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.2.0/SystemCare-1.2.0-x64.msi",
-    "sha256":  "8C671B95AA3A6DA8B159C909FCC1A25DDA62483339EBEFC88A9232A48DAF0E53",
-    "sizeBytes":  54865920,
-    "releasedUtc":  "2026-09-09T18:15:35Z",
-    "notes":  "Reports now lead with plain good news and keep minor notes out of the way. New Memory section shows how much memory this computer uses over time. Clearer icons, colour-coded sections, and progress while things run."
+    "version":  "1.3.0",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.3.0/SystemCare-1.3.0-x64.msi",
+    "sha256":  "3C26BE8E8874DA75A45EAC2EB91E23E84A18D6B71BE1F6383341AA1D3E307182",
+    "sizeBytes":  61915136,
+    "releasedUtc":  "2026-09-09T18:52:38Z",
+    "notes":  "New Helper Apps section. It includes ScamShield, a red button that closes every browser when a website will not let you leave the page."
 }
