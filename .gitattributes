@@ -1,0 +1,7 @@
+# The manifest and its signature are signed over their exact bytes. Git must not touch them.
+#
+# Without this, core.autocrlf - the default on Windows - rewrites CRLF to LF on commit, the
+# published file differs from the signed one by a byte per line, and every installation stops
+# updating silently. Marking them -text takes git out of the decision entirely.
+latest.json     -text
+latest.json.sig -text
