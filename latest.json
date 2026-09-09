@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.2",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.1.2/SystemCare-1.1.2-x64.msi",
-    "sha256":  "25819C8C2574E1AC8B4E5B1096738A3DAD17B64B9E21CD9E9AB75BE5EBC127A8",
-    "sizeBytes":  54829056,
-    "releasedUtc":  "2026-09-09T17:35:16Z",
-    "notes":  "Updates now appear while the program is open, and it reopens by itself after installing one."
+    "version":  "1.2.0",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.2.0/SystemCare-1.2.0-x64.msi",
+    "sha256":  "8C671B95AA3A6DA8B159C909FCC1A25DDA62483339EBEFC88A9232A48DAF0E53",
+    "sizeBytes":  54865920,
+    "releasedUtc":  "2026-09-09T18:15:35Z",
+    "notes":  "Reports now lead with plain good news and keep minor notes out of the way. New Memory section shows how much memory this computer uses over time. Clearer icons, colour-coded sections, and progress while things run."
 }
