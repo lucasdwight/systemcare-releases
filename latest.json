@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.1",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.1.1/SystemCare-1.1.1-x64.msi",
-    "sha256":  "41386912B5E417D481920ADD3F3FB6EEF1B0ED6F7D4793A878B762404F8BE333",
-    "sizeBytes":  54824960,
-    "releasedUtc":  "2026-09-09T17:09:48Z",
-    "notes":  "The version this computer is running is now shown in the window, beside the name."
+    "version":  "1.1.2",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.1.2/SystemCare-1.1.2-x64.msi",
+    "sha256":  "25819C8C2574E1AC8B4E5B1096738A3DAD17B64B9E21CD9E9AB75BE5EBC127A8",
+    "sizeBytes":  54829056,
+    "releasedUtc":  "2026-09-09T17:35:16Z",
+    "notes":  "Updates now appear while the program is open, and it reopens by itself after installing one."
 }
