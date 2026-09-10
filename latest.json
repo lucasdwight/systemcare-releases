@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.1",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.5.1/SystemCare-1.5.1-x64.msi",
-    "sha256":  "24886E816E87BD6EEE2B84209D15E0FE24B0B146D797AB3232760FD010D200A0",
+    "version":  "1.5.2",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.5.2/SystemCare-1.5.2-x64.msi",
+    "sha256":  "385A408FC6A6B18FD0344A8F02CCCAD1BE711A87F04A5FE933B9A965D8E522B7",
     "sizeBytes":  62582784,
-    "releasedUtc":  "2026-09-10T17:55:13Z",
-    "notes":  "Wording and dates now follow American spelling and format throughout. The update check no longer says automatic installing is switched off when it is switched on."
+    "releasedUtc":  "2026-09-10T20:00:51Z",
+    "notes":  "Background tasks now start as soon as they are set up, instead of waiting for the next restart. This affects the memory history and, where a support company is connected, the check-in."
 }
