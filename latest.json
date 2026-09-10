@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.0",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.5.0/SystemCare-1.5.0-x64.msi",
-    "sha256":  "5B1F8466C6D5F6B57932EB7C8CC04D9013CECCE9600DA7727E96B5510FAEB8B1",
-    "sizeBytes":  62586880,
-    "releasedUtc":  "2026-09-10T17:20:27Z",
-    "notes":  "If the company that looks after this computer sets it up, they can now see it is switched on and ask it to check itself over. Until they do, nothing is sent anywhere and nothing changes."
+    "version":  "1.5.1",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.5.1/SystemCare-1.5.1-x64.msi",
+    "sha256":  "24886E816E87BD6EEE2B84209D15E0FE24B0B146D797AB3232760FD010D200A0",
+    "sizeBytes":  62582784,
+    "releasedUtc":  "2026-09-10T17:55:13Z",
+    "notes":  "Wording and dates now follow American spelling and format throughout. The update check no longer says automatic installing is switched off when it is switched on."
 }
