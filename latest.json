@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.0",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.4.0/SystemCare-1.4.0-x64.msi",
-    "sha256":  "95145F20E16D6DA5A4DF43055311E9F8A30DCECFC4045B5FE63D822649E4C61F",
-    "sizeBytes":  62619648,
-    "releasedUtc":  "2026-09-09T22:17:26Z",
-    "notes":  "Remote support: a computer can be looked after by whoever supports it, with their permission. They see that it is healthy, can run its checks, and receive the results encrypted."
+    "version":  "1.4.1",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.4.1/SystemCare-1.4.1-x64.msi",
+    "sha256":  "16CBAD3362AE649E426936F80946F3F61D275FE157EF1178AF0B39EEAEC4315C",
+    "sizeBytes":  62537728,
+    "releasedUtc":  "2026-09-10T00:59:04Z",
+    "notes":  "Remote support has been removed, along with the background check-in it left behind. Everything else works exactly as before."
 }
