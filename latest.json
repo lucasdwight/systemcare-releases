@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.0",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.6.0/SystemCare-1.6.0-x64.msi",
-    "sha256":  "D29087025596265C3188C9ED4E99F7D2CFAEF723398C5D8930D3DB2B5C57278C",
-    "sizeBytes":  62586880,
-    "releasedUtc":  "2026-09-11T00:55:02Z",
-    "notes":  "The maintenance report has been rewritten to say plainly what was checked and whether the computer is all right. SystemCare itself now has a single dark theme, with flatter lists, aligned columns and far fewer panels."
+    "version":  "1.6.1",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.6.1/SystemCare-1.6.1-x64.msi",
+    "sha256":  "1E5831792871BAE1E93908E152D9C396C16D20FA69E30E97992CB7C2763828F1",
+    "sizeBytes":  62590976,
+    "releasedUtc":  "2026-09-11T01:15:37Z",
+    "notes":  "A file another program had open while the cleanup ran was being reported as a problem with the computer, with its full path, one line per file. The report now says in a single line how many were left alone, and an ordinary run is no longer recorded as finishing with issues."
 }
