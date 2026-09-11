@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.2",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.5.2/SystemCare-1.5.2-x64.msi",
-    "sha256":  "385A408FC6A6B18FD0344A8F02CCCAD1BE711A87F04A5FE933B9A965D8E522B7",
-    "sizeBytes":  62582784,
-    "releasedUtc":  "2026-09-10T20:00:51Z",
-    "notes":  "Background tasks now start as soon as they are set up, instead of waiting for the next restart. This affects the memory history and, where a support company is connected, the check-in."
+    "version":  "1.6.0",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.6.0/SystemCare-1.6.0-x64.msi",
+    "sha256":  "D29087025596265C3188C9ED4E99F7D2CFAEF723398C5D8930D3DB2B5C57278C",
+    "sizeBytes":  62586880,
+    "releasedUtc":  "2026-09-11T00:55:02Z",
+    "notes":  "The maintenance report has been rewritten to say plainly what was checked and whether the computer is all right. SystemCare itself now has a single dark theme, with flatter lists, aligned columns and far fewer panels."
 }
