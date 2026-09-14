@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.0",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.0/SystemCare-1.7.0-x64.msi",
-    "sha256":  "783C44D60F9CF4A8620297DA54574C616E33C6D6DBA32FC27E4323FDC12F5151",
-    "sizeBytes":  62906368,
-    "releasedUtc":  "2026-09-14T17:15:44Z",
-    "notes":  "Installing an update no longer switches off this computer\u0027s scheduled maintenance or its connection to the company that looks after it, and this version puts back anything an earlier update removed. SystemCare can also keep a list of the programs on this computer and ask about a program installed since the list was made."
+    "version":  "1.7.1",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.1/SystemCare-1.7.1-x64.msi",
+    "sha256":  "6FEAD2F8D451E95148E9D017D324B831089119CFB1B677DA54710CDCC065FD00",
+    "sizeBytes":  62910464,
+    "releasedUtc":  "2026-09-14T17:58:05Z",
+    "notes":  "The startup check now notices a program that was switched back on to start with Windows, not only one that was added, and it covers Store apps such as Spotify. A startup list recorded before this update needs to be recorded again so that it knows what was switched off."
 }
