@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.1",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.6.1/SystemCare-1.6.1-x64.msi",
-    "sha256":  "1E5831792871BAE1E93908E152D9C396C16D20FA69E30E97992CB7C2763828F1",
-    "sizeBytes":  62590976,
-    "releasedUtc":  "2026-09-11T01:15:37Z",
-    "notes":  "A file another program had open while the cleanup ran was being reported as a problem with the computer, with its full path, one line per file. The report now says in a single line how many were left alone, and an ordinary run is no longer recorded as finishing with issues."
+    "version":  "1.7.0",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.0/SystemCare-1.7.0-x64.msi",
+    "sha256":  "783C44D60F9CF4A8620297DA54574C616E33C6D6DBA32FC27E4323FDC12F5151",
+    "sizeBytes":  62906368,
+    "releasedUtc":  "2026-09-14T17:15:44Z",
+    "notes":  "Installing an update no longer switches off this computer\u0027s scheduled maintenance or its connection to the company that looks after it, and this version puts back anything an earlier update removed. SystemCare can also keep a list of the programs on this computer and ask about a program installed since the list was made."
 }
