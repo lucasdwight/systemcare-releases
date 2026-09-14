@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.3",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.3/SystemCare-1.7.3-x64.msi",
-    "sha256":  "FDA9742B09195A934618A611317E97F79E3082A791659F5EBF7CE729BED9E28D",
+    "version":  "1.7.4",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.4/SystemCare-1.7.4-x64.msi",
+    "sha256":  "C7B172AD09158062E1175CAE852C4FBFB79319782D41771FBAC499F96AFAB22F",
     "sizeBytes":  62914560,
-    "releasedUtc":  "2026-09-14T19:34:02Z",
-    "notes":  "Your support company can now ask this computer for a security scan, which only reports what it finds. Reports also list anything a scan found but did not remove, use the program\u0027s current name, and read as whole sentences."
+    "releasedUtc":  "2026-09-14T22:55:17Z",
+    "notes":  "Connecting this computer to its support company again, for example after the company\u0027s server moves to a new address, now works right away. Before, the computer could show as online on the dashboard and then as offline two minutes later, until it was restarted."
 }
