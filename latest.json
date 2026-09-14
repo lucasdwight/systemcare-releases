@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.1",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.1/SystemCare-1.7.1-x64.msi",
-    "sha256":  "6FEAD2F8D451E95148E9D017D324B831089119CFB1B677DA54710CDCC065FD00",
+    "version":  "1.7.2",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.2/SystemCare-1.7.2-x64.msi",
+    "sha256":  "49B8A28275606530CA1276FC11269D9B50DB9CD4F18B665BB6B47FF0C356ECBB",
     "sizeBytes":  62910464,
-    "releasedUtc":  "2026-09-14T17:58:05Z",
-    "notes":  "The startup check now notices a program that was switched back on to start with Windows, not only one that was added, and it covers Store apps such as Spotify. A startup list recorded before this update needs to be recorded again so that it knows what was switched off."
+    "releasedUtc":  "2026-09-14T18:26:40Z",
+    "notes":  "Maintenance reports now open with a green shield unless something needs real attention, with smaller things listed underneath, and they stay dark whatever the computer is set to."
 }
