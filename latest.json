@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.2",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.2/SystemCare-1.7.2-x64.msi",
-    "sha256":  "49B8A28275606530CA1276FC11269D9B50DB9CD4F18B665BB6B47FF0C356ECBB",
-    "sizeBytes":  62910464,
-    "releasedUtc":  "2026-09-14T18:26:40Z",
-    "notes":  "Maintenance reports now open with a green shield unless something needs real attention, with smaller things listed underneath, and they stay dark whatever the computer is set to."
+    "version":  "1.7.3",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.3/SystemCare-1.7.3-x64.msi",
+    "sha256":  "FDA9742B09195A934618A611317E97F79E3082A791659F5EBF7CE729BED9E28D",
+    "sizeBytes":  62914560,
+    "releasedUtc":  "2026-09-14T19:34:02Z",
+    "notes":  "Your support company can now ask this computer for a security scan, which only reports what it finds. Reports also list anything a scan found but did not remove, use the program\u0027s current name, and read as whole sentences."
 }
