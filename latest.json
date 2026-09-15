@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.4",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.4/SystemCare-1.7.4-x64.msi",
-    "sha256":  "C7B172AD09158062E1175CAE852C4FBFB79319782D41771FBAC499F96AFAB22F",
-    "sizeBytes":  62914560,
-    "releasedUtc":  "2026-09-14T22:55:17Z",
-    "notes":  "Connecting this computer to its support company again, for example after the company\u0027s server moves to a new address, now works right away. Before, the computer could show as online on the dashboard and then as offline two minutes later, until it was restarted."
+    "version":  "1.7.5",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.5/SystemCare-1.7.5-x64.msi",
+    "sha256":  "5A4C8483828534F61CE03379E46E3861C51786EE76F887911F3DF93629FCA652",
+    "sizeBytes":  63250432,
+    "releasedUtc":  "2026-09-15T16:45:05Z",
+    "notes":  "A new dashboard shows security, drive space, memory, the last maintenance and backup, and network speed at a glance. Cleanup and the security scan each finish in one press, scheduled maintenance now starts at the time chosen, and startup programs can be switched back on."
 }
