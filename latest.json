@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.5",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.5/SystemCare-1.7.5-x64.msi",
-    "sha256":  "5A4C8483828534F61CE03379E46E3861C51786EE76F887911F3DF93629FCA652",
-    "sizeBytes":  63250432,
-    "releasedUtc":  "2026-09-15T16:45:05Z",
-    "notes":  "A new dashboard shows security, drive space, memory, the last maintenance and backup, and network speed at a glance. Cleanup and the security scan each finish in one press, scheduled maintenance now starts at the time chosen, and startup programs can be switched back on."
+    "version":  "1.7.6",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.6/SystemCare-1.7.6-x64.msi",
+    "sha256":  "1D4A9ADAB13A177C825376B3E0E92AC5B1331C06DB14FDD74D113C496D5C1587",
+    "sizeBytes":  63221760,
+    "releasedUtc":  "2026-09-15T22:23:33Z",
+    "notes":  "Simpler screens: less text, shorter messages, and one-line questions before anything is removed."
 }
