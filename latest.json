@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.9",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.9/SystemCare-1.7.9-x64.msi",
-    "sha256":  "2ACED6119789C4E9F166FD6EC7F8B2A9C4888AA4CB2D87FF6142D56828ED0769",
-    "sizeBytes":  62734336,
-    "releasedUtc":  "2026-09-16T03:21:19Z",
-    "notes":  "The six cards on the dashboard now match the rest of the window, and each keeps its own colour so they can be told apart."
+    "version":  "1.7.10",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.10/SystemCare-1.7.10-x64.msi",
+    "sha256":  "DE24ADA7405F600778DE5491F98494483D25E15080B2C486D0E8A8F1FFE3C5B0",
+    "sizeBytes":  62738432,
+    "releasedUtc":  "2026-09-16T03:59:15Z",
+    "notes":  "Recording browser settings now lets you choose what to keep, cleanup no longer closes your browser, and a scan explains when something it removed comes back."
 }
