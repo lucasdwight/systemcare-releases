@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.7",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.7/SystemCare-1.7.7-x64.msi",
-    "sha256":  "3BA97534EE5FE37EBC4A1CD7DB351BBF0F0D8789B300B0FB3CAD1D67F37A6667",
-    "sizeBytes":  62689280,
-    "releasedUtc":  "2026-09-15T23:07:46Z",
-    "notes":  "The new iSharpe SystemCare logo: it is now the program\u0027s icon and sits in the window\u0027s title bar."
+    "version":  "1.7.8",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.8/SystemCare-1.7.8-x64.msi",
+    "sha256":  "9547F0B3AA879060042D6D56BD54EA36146D496EF69EFCF867237BA99C09A99E",
+    "sizeBytes":  62730240,
+    "releasedUtc":  "2026-09-16T03:02:34Z",
+    "notes":  "Browser settings are put back the way they were set up, unwanted programs are removed without questions, and the dashboard shows what this computer is."
 }
