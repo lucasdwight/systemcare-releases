@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.8",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.8/SystemCare-1.7.8-x64.msi",
-    "sha256":  "9547F0B3AA879060042D6D56BD54EA36146D496EF69EFCF867237BA99C09A99E",
-    "sizeBytes":  62730240,
-    "releasedUtc":  "2026-09-16T03:02:34Z",
-    "notes":  "Browser settings are put back the way they were set up, unwanted programs are removed without questions, and the dashboard shows what this computer is."
+    "version":  "1.7.9",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.9/SystemCare-1.7.9-x64.msi",
+    "sha256":  "2ACED6119789C4E9F166FD6EC7F8B2A9C4888AA4CB2D87FF6142D56828ED0769",
+    "sizeBytes":  62734336,
+    "releasedUtc":  "2026-09-16T03:21:19Z",
+    "notes":  "The six cards on the dashboard now match the rest of the window, and each keeps its own colour so they can be told apart."
 }
