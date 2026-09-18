@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.11",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.11/SystemCare-1.7.11-x64.msi",
-    "sha256":  "04C43B2E14DEA9245DF38728861F03D725F89DD16D5690E87D57F44E7BCEA105",
-    "sizeBytes":  62738432,
-    "releasedUtc":  "2026-09-18T16:13:20Z",
-    "notes":  "SystemCare now installs its own updates overnight, so a fix reaches this computer without anyone having to open the program and press a button."
+    "version":  "1.7.12",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.12/SystemCare-1.7.12-x64.msi",
+    "sha256":  "486868CDC858505DCB3B2EADC5844000959D11296CBA042A4FD45B135C4ACD74",
+    "sizeBytes":  62758912,
+    "releasedUtc":  "2026-09-18T17:10:20Z",
+    "notes":  "Browser settings now really do go back to what was recorded, Brave is supported alongside Chrome, Edge and Firefox, and a Reset button puts them back without waiting for the nightly run. Record your browser settings again after updating."
 }
