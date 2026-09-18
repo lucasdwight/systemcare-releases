@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.12",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.12/SystemCare-1.7.12-x64.msi",
-    "sha256":  "486868CDC858505DCB3B2EADC5844000959D11296CBA042A4FD45B135C4ACD74",
-    "sizeBytes":  62758912,
-    "releasedUtc":  "2026-09-18T17:10:20Z",
-    "notes":  "Browser settings now really do go back to what was recorded, Brave is supported alongside Chrome, Edge and Firefox, and a Reset button puts them back without waiting for the nightly run. Record your browser settings again after updating."
+    "version":  "1.7.13",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.13/SystemCare-1.7.13-x64.msi",
+    "sha256":  "A8C36FCCCD68513CAE6455477A17FC5BD73196735E19068DBDA6763AE976EACA",
+    "sizeBytes":  62754816,
+    "releasedUtc":  "2026-09-18T17:59:28Z",
+    "notes":  "Removing a program now works for the ones whose publisher did not put quotes around their uninstaller, which is why some programs would not uninstall and others would. A program whose uninstaller is no longer on the computer now says so."
 }
