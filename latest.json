@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.17",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.17/SystemCare-1.7.17-x64.msi",
-    "sha256":  "9D2E04F5B73D256C211CE913E0DCA7EB6C53A484D40871158AEB4851C3FFC7E1",
+    "version":  "1.7.18",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.18/SystemCare-1.7.18-x64.msi",
+    "sha256":  "150D2CC8B40B1DC2E65AB68F1047A199D55559084EF72852173313D526C292C9",
     "sizeBytes":  62820352,
-    "releasedUtc":  "2026-09-21T02:30:07Z",
-    "notes":  "Each browser now has its own boxes, so Chrome can be held to its recorded settings while Firefox is left alone. Uninstalling is fixed for programs whose uninstaller hands over to a copy of itself or reports a code that does not match what it did, and what a removed program left in its own folder now goes with it."
+    "releasedUtc":  "2026-09-21T02:57:00Z",
+    "notes":  "Scheduled browser tasks were finding no browsers at all and doing nothing, which is fixed. The pop-up about a new program now answers with Yes or Remove, and Yes stops it coming back. Tooltips were invisible, the Applications sort was hidden behind the search box, and Applications can now be narrowed by drive."
 }
