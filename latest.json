@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.16",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.16/SystemCare-1.7.16-x64.msi",
-    "sha256":  "7CFCBF1EFBE512E1C5B1F653A6FC2D52814A74A44B7E8103CAF50B9EE00447CB",
-    "sizeBytes":  62775296,
-    "releasedUtc":  "2026-09-21T01:38:05Z",
-    "notes":  "Chrome, Edge and Brave settings are now recorded by copying the files the browser itself keeps them in, and a reset puts those files back, which is the only way the browser accepts them. Bookmarks, saved passwords, history and cookies are never copied. Record your browser settings again after updating."
+    "version":  "1.7.17",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.17/SystemCare-1.7.17-x64.msi",
+    "sha256":  "9D2E04F5B73D256C211CE913E0DCA7EB6C53A484D40871158AEB4851C3FFC7E1",
+    "sizeBytes":  62820352,
+    "releasedUtc":  "2026-09-21T02:30:07Z",
+    "notes":  "Each browser now has its own boxes, so Chrome can be held to its recorded settings while Firefox is left alone. Uninstalling is fixed for programs whose uninstaller hands over to a copy of itself or reports a code that does not match what it did, and what a removed program left in its own folder now goes with it."
 }
