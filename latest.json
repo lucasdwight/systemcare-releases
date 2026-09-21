@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.14",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.14/SystemCare-1.7.14-x64.msi",
-    "sha256":  "E186D46412BFD7BF6E78FB3110B6793A4A9D8AB73B46CED2FDCC890D74D9FE4B",
+    "version":  "1.7.15",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.15/SystemCare-1.7.15-x64.msi",
+    "sha256":  "838B755D241BFBACE7C8415663C31214FEC38F851578CE1AD700B2EF6393E58C",
     "sizeBytes":  62758912,
-    "releasedUtc":  "2026-09-18T18:45:14Z",
-    "notes":  "Browser settings are now reported honestly: Chrome, Edge and Brave refuse to let any program outside them set the search engine, home page or opening pages, so SystemCare says which one changed instead of claiming to put it back. Extensions are still held to what was recorded, which is what fixes most hijacks."
+    "releasedUtc":  "2026-09-21T01:17:45Z",
+    "notes":  "Resetting the browser settings now acts only on the browsers ticked on the Browsers page, and no longer offers to close a browser you did not tick."
 }
