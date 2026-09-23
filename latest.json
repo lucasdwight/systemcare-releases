@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.19",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.19/SystemCare-1.7.19-x64.msi",
-    "sha256":  "A28CDA78CE8A0198C030356A749764249F2D1AF95F22BA34C58F2AD7A18042DE",
+    "version":  "1.7.20",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.20/SystemCare-1.7.20-x64.msi",
+    "sha256":  "B09A7ED38371F6D6D2EC181FDE3C53AE8CC7572F81B2A37C1DA0CEB17C2E2AFE",
     "sizeBytes":  62783488,
-    "releasedUtc":  "2026-09-23T17:06:59Z",
-    "notes":  "The whole program has been through a page by page review. Custom tools are gone, Scheduled Tasks is now Schedule Maintenance and can be edited, run on demand and stopped, the simple view is the same window with five things on it, the dashboard boxes are green or red at a glance, and the reports say less and mean more. The connection is measured by itself every four hours."
+    "releasedUtc":  "2026-09-23T17:36:12Z",
+    "notes":  "Fixes 1.7.19, which would not start at all on a computer set to the simple view. The simple view also has a way back to the advanced one now, in the sidebar."
 }
