@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.21",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.21/SystemCare-1.7.21-x64.msi",
-    "sha256":  "9716455359A9AC43D6F5272B65CFCB1B292AD91C9818F9A25814C47F606649A1",
-    "sizeBytes":  62779392,
-    "releasedUtc":  "2026-09-23T18:01:05Z",
-    "notes":  "Reports are headed iSharpe now on computers that were still showing the old placeholder. The sidebar carries the iSharpe SystemCare logo where the computer name used to be, and the cleanup button says Clean now."
+    "version":  "1.7.22",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.22/SystemCare-1.7.22-x64.msi",
+    "sha256":  "C3D6707C6CAAFB7A2393203806C58199921C3701BEFA57E5FBEC0F746D0FAA79",
+    "sizeBytes":  62783488,
+    "releasedUtc":  "2026-09-23T18:25:22Z",
+    "notes":  "Stopping a running maintenance now really stops it: the progress bar kept moving because nothing recorded that the run had ended. The simple view has a dashboard, and the product name is no longer shown twice on one screen."
 }
