@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.18",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.18/SystemCare-1.7.18-x64.msi",
-    "sha256":  "150D2CC8B40B1DC2E65AB68F1047A199D55559084EF72852173313D526C292C9",
-    "sizeBytes":  62820352,
-    "releasedUtc":  "2026-09-21T02:57:00Z",
-    "notes":  "Scheduled browser tasks were finding no browsers at all and doing nothing, which is fixed. The pop-up about a new program now answers with Yes or Remove, and Yes stops it coming back. Tooltips were invisible, the Applications sort was hidden behind the search box, and Applications can now be narrowed by drive."
+    "version":  "1.7.19",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.19/SystemCare-1.7.19-x64.msi",
+    "sha256":  "A28CDA78CE8A0198C030356A749764249F2D1AF95F22BA34C58F2AD7A18042DE",
+    "sizeBytes":  62783488,
+    "releasedUtc":  "2026-09-23T17:06:59Z",
+    "notes":  "The whole program has been through a page by page review. Custom tools are gone, Scheduled Tasks is now Schedule Maintenance and can be edited, run on demand and stopped, the simple view is the same window with five things on it, the dashboard boxes are green or red at a glance, and the reports say less and mean more. The connection is measured by itself every four hours."
 }
