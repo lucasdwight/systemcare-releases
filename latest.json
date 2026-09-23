@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.20",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.20/SystemCare-1.7.20-x64.msi",
-    "sha256":  "B09A7ED38371F6D6D2EC181FDE3C53AE8CC7572F81B2A37C1DA0CEB17C2E2AFE",
-    "sizeBytes":  62783488,
-    "releasedUtc":  "2026-09-23T17:36:12Z",
-    "notes":  "Fixes 1.7.19, which would not start at all on a computer set to the simple view. The simple view also has a way back to the advanced one now, in the sidebar."
+    "version":  "1.7.21",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.21/SystemCare-1.7.21-x64.msi",
+    "sha256":  "9716455359A9AC43D6F5272B65CFCB1B292AD91C9818F9A25814C47F606649A1",
+    "sizeBytes":  62779392,
+    "releasedUtc":  "2026-09-23T18:01:05Z",
+    "notes":  "Reports are headed iSharpe now on computers that were still showing the old placeholder. The sidebar carries the iSharpe SystemCare logo where the computer name used to be, and the cleanup button says Clean now."
 }
