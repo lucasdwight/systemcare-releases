@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.23",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.23/SystemCare-1.7.23-x64.msi",
-    "sha256":  "67872FA015960A1603A4348705EDE02CCCEB01413E5935ED10FBC91BD31B3EB9",
-    "sizeBytes":  62791680,
-    "releasedUtc":  "2026-09-24T00:02:09Z",
-    "notes":  "The sidebar and the page beside it are lighter greys now, and the sidebar is the darker of the two rather than the lighter. Reports carry the iSharpe logo, name iSharpe rather than a placeholder, and say completed with notes in blue where they used to say completed with issues in amber. The browsers page shows when settings were last recorded, schedules can be created side by side, and a scheduled run closes a browser that is in its way."
+    "version":  "1.7.24",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.24/SystemCare-1.7.24-x64.msi",
+    "sha256":  "D1E650A9153643574EFE7D10CA107C44E5C8C07FB819759A3DEEEE2C885EBDF9",
+    "sizeBytes":  62816256,
+    "releasedUtc":  "2026-09-24T16:35:53Z",
+    "notes":  "Opening SystemCare no longer asks for administrator rights every time. The window that asks about a newly installed program now waits until the installation has finished, so Keep and Remove both work, and it can be turned off in Settings. AdwCleaner is refreshed when the copy on the computer is out of date. The Network page has one button for clearing the DNS cache, the address cache and the system proxy together. Blocking extensions that are not in the recording is now a choice on the Browsers page, off by default. The Applications page shows when the list of programs was recorded."
 }
