@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.24",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.24/SystemCare-1.7.24-x64.msi",
-    "sha256":  "D1E650A9153643574EFE7D10CA107C44E5C8C07FB819759A3DEEEE2C885EBDF9",
-    "sizeBytes":  62816256,
-    "releasedUtc":  "2026-09-24T16:35:53Z",
-    "notes":  "Opening SystemCare no longer asks for administrator rights every time. The window that asks about a newly installed program now waits until the installation has finished, so Keep and Remove both work, and it can be turned off in Settings. AdwCleaner is refreshed when the copy on the computer is out of date. The Network page has one button for clearing the DNS cache, the address cache and the system proxy together. Blocking extensions that are not in the recording is now a choice on the Browsers page, off by default. The Applications page shows when the list of programs was recorded."
+    "version":  "1.7.25",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.25/SystemCare-1.7.25-x64.msi",
+    "sha256":  "03F2673E1C69AF7046B55AB617C667201C62D20FC1BC9CDF5265A9C609EA3882",
+    "sizeBytes":  62820352,
+    "releasedUtc":  "2026-09-24T20:06:42Z",
+    "notes":  "Saving a change to one scheduled maintenance no longer runs it, and no longer reports every other schedule as never having run. The Browsers page writes the extension policy when you press Record, instead of waiting for the next reset. A new backup option decides whether deleting a file from your computer also removes it from the backup; it is off, so the backup keeps it. The sidebar is a blue grey and the page beside it a lighter, more neutral grey."
 }
