@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.22",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.22/SystemCare-1.7.22-x64.msi",
-    "sha256":  "C3D6707C6CAAFB7A2393203806C58199921C3701BEFA57E5FBEC0F746D0FAA79",
-    "sizeBytes":  62783488,
-    "releasedUtc":  "2026-09-23T18:25:22Z",
-    "notes":  "Stopping a running maintenance now really stops it: the progress bar kept moving because nothing recorded that the run had ended. The simple view has a dashboard, and the product name is no longer shown twice on one screen."
+    "version":  "1.7.23",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.23/SystemCare-1.7.23-x64.msi",
+    "sha256":  "67872FA015960A1603A4348705EDE02CCCEB01413E5935ED10FBC91BD31B3EB9",
+    "sizeBytes":  62791680,
+    "releasedUtc":  "2026-09-24T00:02:09Z",
+    "notes":  "The sidebar and the page beside it are lighter greys now, and the sidebar is the darker of the two rather than the lighter. Reports carry the iSharpe logo, name iSharpe rather than a placeholder, and say completed with notes in blue where they used to say completed with issues in amber. The browsers page shows when settings were last recorded, schedules can be created side by side, and a scheduled run closes a browser that is in its way."
 }
