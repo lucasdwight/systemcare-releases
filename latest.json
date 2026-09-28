@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.26",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.26/SystemCare-1.7.26-x64.msi",
-    "sha256":  "2261554B4069B1D02799D6689D1E642009A4D8F512847894268DC297AB722990",
+    "version":  "1.7.27",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.27/SystemCare-1.7.27-x64.msi",
+    "sha256":  "B73531F83E2A480AE889CB4F63CF507D5106FAE267D0A62D94C770FC810D4BAF",
     "sizeBytes":  62824448,
-    "releasedUtc":  "2026-09-28T16:11:28Z",
-    "notes":  "The window asking whether you installed a program no longer comes back after a restart. It kept what it had asked only until the computer was switched off, so a question closed rather than answered returned at every sign-in, and a program with no uninstaller returned for ever."
+    "releasedUtc":  "2026-09-28T18:04:57Z",
+    "notes":  "The Backups page could keep showing an old row after a backup had run, so a job that had just been backed up still said it had never run. It happened when one job\u0027s sources could not be read: working out what that job would copy next stopped the whole list being rebuilt. Each job is now read on its own, and one that cannot be checked says so by name instead of quietly reading as up to date."
 }
