@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.25",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.25/SystemCare-1.7.25-x64.msi",
-    "sha256":  "03F2673E1C69AF7046B55AB617C667201C62D20FC1BC9CDF5265A9C609EA3882",
-    "sizeBytes":  62820352,
-    "releasedUtc":  "2026-09-24T20:06:42Z",
-    "notes":  "Saving a change to one scheduled maintenance no longer runs it, and no longer reports every other schedule as never having run. The Browsers page writes the extension policy when you press Record, instead of waiting for the next reset. A new backup option decides whether deleting a file from your computer also removes it from the backup; it is off, so the backup keeps it. The sidebar is a blue grey and the page beside it a lighter, more neutral grey."
+    "version":  "1.7.26",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.26/SystemCare-1.7.26-x64.msi",
+    "sha256":  "2261554B4069B1D02799D6689D1E642009A4D8F512847894268DC297AB722990",
+    "sizeBytes":  62824448,
+    "releasedUtc":  "2026-09-28T16:11:28Z",
+    "notes":  "The window asking whether you installed a program no longer comes back after a restart. It kept what it had asked only until the computer was switched off, so a question closed rather than answered returned at every sign-in, and a program with no uninstaller returned for ever."
 }
