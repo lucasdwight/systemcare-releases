@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.33",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.33/SystemCare-1.7.33-x64.msi",
-    "sha256":  "F49111ED8B121C86C7C34AB99E84EAE3CB3FE7DA2B88C7B855643BB9C04190C5",
+    "version":  "1.7.34",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.34/SystemCare-1.7.34-x64.msi",
+    "sha256":  "D88ED8ECEDC2EF9782DB1EA890A72071F0DE14832EBBAB52A90E4EFADDFC286E",
     "sizeBytes":  62844928,
-    "releasedUtc":  "2026-09-29T17:53:41Z",
-    "notes":  "Fixed an automatic update that failed on any computer with SystemCare open at the time, which is the one kind of computer the last two versions changed updating for."
+    "releasedUtc":  "2026-09-29T18:09:42Z",
+    "notes":  "A check for updates run without administrator rights used to report that nothing checks for updates, on computers where it does. It now says it cannot tell."
 }
