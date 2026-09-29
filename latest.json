@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.29",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.29/SystemCare-1.7.29-x64.msi",
-    "sha256":  "B727FD5A8A8A1877EFEA1A70FF8A30D3ADE52DC43C5DDB4C2348BCF2F484F61A",
+    "version":  "1.7.30",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.30/SystemCare-1.7.30-x64.msi",
+    "sha256":  "532EA2F252F6E5D832D5DA68F70FD12D3130FC87E132308F148DD5A046836B94",
     "sizeBytes":  62840832,
-    "releasedUtc":  "2026-09-29T16:03:53Z",
-    "notes":  "Scheduled maintenance no longer clears cookies, so nobody is signed out of the websites they use. A computer whose license has been turned off now stops doing anything except keeping itself up to date, and stops within about a minute rather than waiting for the window to be closed and opened again."
+    "releasedUtc":  "2026-09-29T16:16:15Z",
+    "notes":  "Nothing changed in this version. It exists so the automatic update can be watched working end to end."
 }
