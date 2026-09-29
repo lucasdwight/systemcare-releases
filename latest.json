@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.27",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.27/SystemCare-1.7.27-x64.msi",
-    "sha256":  "B73531F83E2A480AE889CB4F63CF507D5106FAE267D0A62D94C770FC810D4BAF",
-    "sizeBytes":  62824448,
-    "releasedUtc":  "2026-09-28T18:04:57Z",
-    "notes":  "The Backups page could keep showing an old row after a backup had run, so a job that had just been backed up still said it had never run. It happened when one job\u0027s sources could not be read: working out what that job would copy next stopped the whole list being rebuilt. Each job is now read on its own, and one that cannot be checked says so by name instead of quietly reading as up to date."
+    "version":  "1.7.28",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.28/SystemCare-1.7.28-x64.msi",
+    "sha256":  "417FC7F2049B22C3F7A2D94F13A79441A17CA048E249E5B3E90BE9BFF88BDF71",
+    "sizeBytes":  62832640,
+    "releasedUtc":  "2026-09-29T15:22:34Z",
+    "notes":  "A scheduled maintenance run now looks for a new version when it finishes, and installs it, so a computer that is switched off overnight still gets updates. Checking for updates by hand also reports whether the nightly check is registered and when it last ran. A computer with no customer email now opens on a page that connects it, with nothing else available, instead of refusing to open at all."
 }
