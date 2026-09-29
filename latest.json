@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.36",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.36/SystemCare-1.7.36-x64.msi",
-    "sha256":  "649CA5A9D98897989863901274AE3053DAB936CB613DA2D03D3544907FB474A6",
-    "sizeBytes":  62844928,
-    "releasedUtc":  "2026-09-29T19:13:07Z",
-    "notes":  "The program that asks about newly installed software used to keep running its old version after an update, until the next sign-in. It now moves to the new one by itself."
+    "version":  "1.7.37",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.37/SystemCare-1.7.37-x64.msi",
+    "sha256":  "437E30DAEAADFA536773DF956B7E97D425C809675A258ED1C39806552931C10F",
+    "sizeBytes":  62853120,
+    "releasedUtc":  "2026-09-29T20:02:40Z",
+    "notes":  "Your support company can now ask this computer to install an update straight away, instead of waiting for the nightly check. What arrives is unchanged and is still checked against the publisher before anything runs."
 }
