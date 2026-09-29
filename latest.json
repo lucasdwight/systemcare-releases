@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.32",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.32/SystemCare-1.7.32-x64.msi",
-    "sha256":  "CDE1801652169C732D96E836C3971C236F8A97EC789C7BF0A03FED49C2317436",
+    "version":  "1.7.33",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.33/SystemCare-1.7.33-x64.msi",
+    "sha256":  "F49111ED8B121C86C7C34AB99E84EAE3CB3FE7DA2B88C7B855643BB9C04190C5",
     "sizeBytes":  62844928,
-    "releasedUtc":  "2026-09-29T17:07:45Z",
-    "notes":  "Nothing changed in this version. It exists so the automatic update can be watched working end to end."
+    "releasedUtc":  "2026-09-29T17:53:41Z",
+    "notes":  "Fixed an automatic update that failed on any computer with SystemCare open at the time, which is the one kind of computer the last two versions changed updating for."
 }
