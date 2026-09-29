@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.28",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.28/SystemCare-1.7.28-x64.msi",
-    "sha256":  "417FC7F2049B22C3F7A2D94F13A79441A17CA048E249E5B3E90BE9BFF88BDF71",
-    "sizeBytes":  62832640,
-    "releasedUtc":  "2026-09-29T15:22:34Z",
-    "notes":  "A scheduled maintenance run now looks for a new version when it finishes, and installs it, so a computer that is switched off overnight still gets updates. Checking for updates by hand also reports whether the nightly check is registered and when it last ran. A computer with no customer email now opens on a page that connects it, with nothing else available, instead of refusing to open at all."
+    "version":  "1.7.29",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.29/SystemCare-1.7.29-x64.msi",
+    "sha256":  "B727FD5A8A8A1877EFEA1A70FF8A30D3ADE52DC43C5DDB4C2348BCF2F484F61A",
+    "sizeBytes":  62840832,
+    "releasedUtc":  "2026-09-29T16:03:53Z",
+    "notes":  "Scheduled maintenance no longer clears cookies, so nobody is signed out of the websites they use. A computer whose license has been turned off now stops doing anything except keeping itself up to date, and stops within about a minute rather than waiting for the window to be closed and opened again."
 }
