@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.38",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.38/SystemCare-1.7.38-x64.msi",
-    "sha256":  "19386B34D310AD19A9EDF7880B34E7478224232F6754EEB06C30F007C692033D",
-    "sizeBytes":  62853120,
-    "releasedUtc":  "2026-09-29T22:19:06Z",
-    "notes":  "Nothing changed in this version. It exists so the new Update now button on the dashboard can be watched working end to end."
+    "version":  "1.7.39",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.39/SystemCare-1.7.39-x64.msi",
+    "sha256":  "2814725BCE047F0EEBEC5432711F7FD9059265B41802D759C3760E415FE28757",
+    "sizeBytes":  62857216,
+    "releasedUtc":  "2026-09-29T22:52:12Z",
+    "notes":  "An update that fails now says so in this computer\u0027s own log, with the installer\u0027s reason beside it. Two updates can no longer start at once and get in each other\u0027s way."
 }
