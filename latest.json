@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.35",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.35/SystemCare-1.7.35-x64.msi",
-    "sha256":  "5FB624745D132D13864353DA26074CAD95899ED37DDC55D4E3A899E831D4BB1C",
+    "version":  "1.7.36",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.36/SystemCare-1.7.36-x64.msi",
+    "sha256":  "649CA5A9D98897989863901274AE3053DAB936CB613DA2D03D3544907FB474A6",
     "sizeBytes":  62844928,
-    "releasedUtc":  "2026-09-29T18:51:26Z",
-    "notes":  "Updating with SystemCare open left the old window running beside the new one. The window is now closed before the update and opened again after it, so there is one of it."
+    "releasedUtc":  "2026-09-29T19:13:07Z",
+    "notes":  "The program that asks about newly installed software used to keep running its old version after an update, until the next sign-in. It now moves to the new one by itself."
 }
