@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.34",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.34/SystemCare-1.7.34-x64.msi",
-    "sha256":  "D88ED8ECEDC2EF9782DB1EA890A72071F0DE14832EBBAB52A90E4EFADDFC286E",
+    "version":  "1.7.35",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.35/SystemCare-1.7.35-x64.msi",
+    "sha256":  "5FB624745D132D13864353DA26074CAD95899ED37DDC55D4E3A899E831D4BB1C",
     "sizeBytes":  62844928,
-    "releasedUtc":  "2026-09-29T18:09:42Z",
-    "notes":  "A check for updates run without administrator rights used to report that nothing checks for updates, on computers where it does. It now says it cannot tell."
+    "releasedUtc":  "2026-09-29T18:51:26Z",
+    "notes":  "Updating with SystemCare open left the old window running beside the new one. The window is now closed before the update and opened again after it, so there is one of it."
 }
