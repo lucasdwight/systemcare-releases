@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.37",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.37/SystemCare-1.7.37-x64.msi",
-    "sha256":  "437E30DAEAADFA536773DF956B7E97D425C809675A258ED1C39806552931C10F",
+    "version":  "1.7.38",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.38/SystemCare-1.7.38-x64.msi",
+    "sha256":  "19386B34D310AD19A9EDF7880B34E7478224232F6754EEB06C30F007C692033D",
     "sizeBytes":  62853120,
-    "releasedUtc":  "2026-09-29T20:02:40Z",
-    "notes":  "Your support company can now ask this computer to install an update straight away, instead of waiting for the nightly check. What arrives is unchanged and is still checked against the publisher before anything runs."
+    "releasedUtc":  "2026-09-29T22:19:06Z",
+    "notes":  "Nothing changed in this version. It exists so the new Update now button on the dashboard can be watched working end to end."
 }
