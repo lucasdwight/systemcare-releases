@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.31",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.31/SystemCare-1.7.31-x64.msi",
-    "sha256":  "006C5F2D7F271029BFD5FC793B003FCFB28E6CEFC864A43026E13D3F1E780AC3",
+    "version":  "1.7.32",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.32/SystemCare-1.7.32-x64.msi",
+    "sha256":  "CDE1801652169C732D96E836C3971C236F8A97EC789C7BF0A03FED49C2317436",
     "sizeBytes":  62844928,
-    "releasedUtc":  "2026-09-29T17:00:02Z",
-    "notes":  "Updates now install even when SystemCare is open. The window closes while its files are replaced and reopens by itself on the new version. The daily check runs at ten at night rather than three in the morning, and the time can be changed in Settings."
+    "releasedUtc":  "2026-09-29T17:07:45Z",
+    "notes":  "Nothing changed in this version. It exists so the automatic update can be watched working end to end."
 }
