@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.40",
-    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.40/SystemCare-1.7.40-x64.msi",
-    "sha256":  "02BBA6391F8FCFDA23B23204D9DBF5066A2985CF7222EEA9CD93D0FC198DF506",
-    "sizeBytes":  62853120,
-    "releasedUtc":  "2026-09-30T00:17:00Z",
-    "notes":  "Closes the gap that let two updates start at once on the same computer and stop each other finishing. The second one is now told to wait."
+    "version":  "1.7.41",
+    "installerUrl":  "https://github.com/lucasdwight/systemcare-releases/releases/download/v1.7.41/SystemCare-1.7.41-x64.msi",
+    "sha256":  "8B6A514CFD63C825B8832EE62CF8D39FC18317A55C97F2C88879013DA602B91E",
+    "sizeBytes":  62857216,
+    "releasedUtc":  "2026-09-30T03:28:07Z",
+    "notes":  "An update asked for from the dashboard now starts straight away instead of after a two minute pause that looked like nothing happening."
 }
